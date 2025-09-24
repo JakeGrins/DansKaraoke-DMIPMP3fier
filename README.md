@@ -7,7 +7,7 @@ Advanced version over mastawba's simple MP3-fier simple .py script with more con
 - Ability to speed up or slow down
 - Ability to create fade-ins and fade-outs with 10 seconds max
 
-Basically MP3fier in steroids while still retaining the original code! as it fully utilizes the DMIP MP3 system:
+Basically, this is an MP3fier in steroids while still retaining the [original code](https://discord.com/channels/1208423576370155600/1409588884970668112/1409610802255630388)! as it fully utilizes the DMIP MP3 system:
 `\}dmipv1://playURITrack?track=main&startTime=1.60&endTime=120&crossfadeIn=0&crossfadeOut=0&speed=1&uri=rbxassetid://71892599915104÷`
 
 ## Usage:
